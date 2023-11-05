@@ -8,7 +8,7 @@ import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
 
-
+String name "Latif";
 
 
 @CucumberOptions (
