@@ -8,7 +8,6 @@ import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
 
-String name "Latif";
 
 
 @CucumberOptions (
@@ -22,7 +21,7 @@ String name "Latif";
 public class Runner {
 
 }
-
+//test
 
 /**
 	in this Runner class we are providing specific feature file to execute
